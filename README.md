@@ -12,6 +12,8 @@
 [![CLI: ccpi](https://img.shields.io/badge/CLI-ccpi-blueviolet?logo=npm)](https://www.npmjs.com/package/@intentsolutionsio/ccpi)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/LICENSE)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
 ---
 
 ## What this is
